@@ -1,0 +1,8 @@
+
+#MariaDB
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://192.168.0.16:3306/test
+    username: kimcoding
+    password: password
